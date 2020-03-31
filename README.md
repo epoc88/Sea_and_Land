@@ -25,7 +25,7 @@ contains an integer n denoting the number of boxes. The next n lines contain the
 point values a, b, c, d that define Cartesian coordinates of the minimum corner and maximum
 corner of each box separated by a single space. Note that this input does not correspond to the above diagram.
 
-|14|
+14  
 1.0 1.0 10.0 6.0   
 1.5 1.5 6.0 5.0  
 2.0 2.0 3.0 3.0  
@@ -40,7 +40,6 @@ corner of each box separated by a single space. Note that this input does not co
 5.0 7.5 7.5 9.5  
 5.5 8.0 6.0 9.0  
 6.5 8.0 7.0 9.0 
-
-Sample Output:
-
-9
+  
+Sample Output:  
+9 
