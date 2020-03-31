@@ -16,10 +16,6 @@ You can expect each box to be defined in terms of the Cartesian coordinates of i
 corner {a, b} and its maximum corner {c, d} such that a < c and b < d. If you make any other
 assumptions as part of your solution then please make comments in the code. If there are further considerations that might affect the memory use or performance of your solution then do make a note of them.
 
-Submission
-When submitting your solution please return all of your code, including any tests that you might have written and any documentation that you feel is appropriate. Please archive your solution
-either as a .tar or .zip file.
-
 Sample Input Some sample data is provided below for you to use when testing your solution. The first line
 contains an integer n denoting the number of boxes. The next n lines contain the four floating
 point values a, b, c, d that define Cartesian coordinates of the minimum corner and maximum
