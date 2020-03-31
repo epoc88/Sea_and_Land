@@ -8,7 +8,7 @@ within or disjoint from (non-overlapping with) one another. They therefore parti
 “sea”. All other regions are classified either as “sea” or as “land”, subject to the constraint that no two regions that share a boundary may share the same classification. The task is to output the
 number of regions classified as “land”.
 
-<img src="https://github.com/epoc88/Sea_and_Land/tree/master/images/Land_and_Sea_v2.png">
+![boxes](./images/Land_and_Sea_v2.png)
 
 Blue = sea, Yellow = land.
 
